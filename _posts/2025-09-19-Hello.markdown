@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Welcome"
-date: 09/19/2025
+date: 09-19-2025
 permalink: https://lindsro.github.io/test-site/posts
 ---
 # Welcome to my Jekyll website!
@@ -15,3 +15,4 @@ and at the Clark Library (where I also work with a lot of metadata, but this tim
 where I helped build and populate the database that manages the metadata for scanned images held by the Clark library. I am now pretty familiar with Claris Filemaker Pro! I use it everyday
 at the Clark. I am also able to use Microsoft Access, and am taking an SQL class to hopefully be able to write queries for that database which would make it much easier to manage.
 
+Okay, take 3, this time officially from my terminal to try and test this! Do we think I'll have any luck? This has been really interesting, because I have been trying to get this to work all afternoon and I still have an unbelievable amount of reading to do to understand HTML and markdown becuase I havn't meaningfully used HTML since I was 14 and copying and pasting code into my tumblr to get a sparkly cursor.
