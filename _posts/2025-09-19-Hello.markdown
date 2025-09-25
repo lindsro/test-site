@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Welcome"
-date: 09-19-2025
+date: 09-19-2025 15:22:00 -0400
 permalink: https://lindsro.github.io/test-site/posts
 ---
 # Welcome to my Jekyll website!
