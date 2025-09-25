@@ -22,8 +22,9 @@ title: Kitchen Sink
 email: rogerslj@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Lindsey Rogers Kitchen Sink: A blog about homework and nothing and everything else.
-baseurl: "https://lindsro.github.io/test-site/" # the subpath of your site, e.g. /blog
-url: "https://lindsro.github.io/test-site/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/test-site/" # the subpath of your site, e.g. /blog
+url: "https://lindsro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: error
 github_username:  lindsro
 
